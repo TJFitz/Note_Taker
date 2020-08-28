@@ -1,1 +1,7 @@
-[{ "title": "Test Title", "text": "Test text" }]
+[
+  {
+    "title": "Test Note",
+    "text": "Welcome to my note taker app =)",
+    "id": 8020
+  }
+]
